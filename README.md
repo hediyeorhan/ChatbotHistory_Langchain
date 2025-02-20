@@ -1,4 +1,5 @@
-# GeminiAPI_Langchain_Translate_CodeReview_Project
+# ChatbotHistory_Langchain
+
 
 Bu çalışmada Google AI tarafından geliştirilen yapay zekâ Gemini API'ı kullanılarak küçük çaplı chatbot projesi geliştirilmiştir. 
 
